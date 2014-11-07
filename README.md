@@ -5,7 +5,7 @@ The Official Plymouth theme for OzonOS.
 ![initial version screenshot](https://github.com/ozonos/ozon-plymouth/blob/master/preview.png)
 
 ### See it in action!
-**YouTube** video is available [here](www.github.com).
+**YouTube** video is available [here](http://www.youtube.com/watch?v=RfNinSwSrjE).
 
 ### Installation
 
